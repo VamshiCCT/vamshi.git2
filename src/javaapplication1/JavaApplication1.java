@@ -17,7 +17,7 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Student name Vamshi,Student Id 2024549");
+        System.out.println("Student name Vamshi,Student Id 2024549 2024 batch");
     }
     
 }
